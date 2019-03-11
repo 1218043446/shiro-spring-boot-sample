@@ -4,9 +4,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
-/**
- * @author Yorke
- */
+
 @Repository
 public class ShiroSampleDao {
 
